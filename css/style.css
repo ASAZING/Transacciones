@@ -1,0 +1,32 @@
+@import "https://fonts.googleapis.com/css?family=Lato:400,700";
+
+.form-control-feedback {
+    position: absolute;
+    padding: 10px;
+    pointer-events: none;
+  }
+  
+  .form-control {
+    padding-left: 30px!important;
+  }
+  .custom {
+    width: 100% !important;
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.m-green{  color: #5bb314;
+
+}
+.btn-bg{
+  background-color: #5bb314;
+  color: white;
+}
+.text-s-font{
+  font-size: 12px;
+
+}
+body{
+  color: grey;
+}
